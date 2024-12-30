@@ -1,0 +1,30 @@
+/Users/arwinwang/Projects/csharp/Daily Correspondence/bin/Debug/net8.0/appsettings.Development.json
+/Users/arwinwang/Projects/csharp/Daily Correspondence/bin/Debug/net8.0/appsettings.json
+/Users/arwinwang/Projects/csharp/Daily Correspondence/bin/Debug/net8.0/Daily Correspondence.staticwebassets.runtime.json
+/Users/arwinwang/Projects/csharp/Daily Correspondence/bin/Debug/net8.0/Daily Correspondence
+/Users/arwinwang/Projects/csharp/Daily Correspondence/bin/Debug/net8.0/Daily Correspondence.deps.json
+/Users/arwinwang/Projects/csharp/Daily Correspondence/bin/Debug/net8.0/Daily Correspondence.runtimeconfig.json
+/Users/arwinwang/Projects/csharp/Daily Correspondence/bin/Debug/net8.0/Daily Correspondence.dll
+/Users/arwinwang/Projects/csharp/Daily Correspondence/bin/Debug/net8.0/Daily Correspondence.pdb
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.AssemblyInfoInputs.cache
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.AssemblyInfo.cs
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.csproj.CoreCompileInputs.cache
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.MvcApplicationPartsAssemblyInfo.cache
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.RazorAssemblyInfo.cache
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.RazorAssemblyInfo.cs
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/staticwebassets.build.json
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/staticwebassets.development.json
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/staticwebassets/msbuild.Daily Correspondence.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/staticwebassets/msbuild.build.Daily Correspondence.props
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Daily Correspondence.props
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Daily Correspondence.props
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/scopedcss/bundle/Daily Correspondence.styles.css
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/scopedcss/projectbundle/Daily Correspondence.bundle.scp.css
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.dll
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/refint/Daily Correspondence.dll
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.pdb
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.genruntimeconfig.cache
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/ref/Daily Correspondence.dll
