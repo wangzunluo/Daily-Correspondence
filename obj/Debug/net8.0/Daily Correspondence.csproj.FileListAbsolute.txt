@@ -28,3 +28,4 @@
 /Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.pdb
 /Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.genruntimeconfig.cache
 /Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/ref/Daily Correspondence.dll
+/Users/arwinwang/Projects/csharp/Daily Correspondence/obj/Debug/net8.0/Daily Correspondence.sourcelink.json
