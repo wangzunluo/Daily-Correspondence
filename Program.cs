@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Daily_Correspondence.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<Daily_CorrespondenceContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Daily_CorrespondenceContext") ?? throw new InvalidOperationException("Connection string 'Daily_CorrespondenceContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
